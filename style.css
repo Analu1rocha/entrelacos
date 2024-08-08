@@ -31,13 +31,12 @@ img {
  --header-height: 4.5rem;
 
 /*=== COLORS ===*/
---base-color: #b7894d;
---base-color-second: #579141;
---base-color-alt: #ad885f;
---title-color: #5a402a;
+--base-color: #7a4d30;
+--base-color-second: #333b29;
+--title-color: #7a4d30;
 --text-color: rgb(2, 2, 2);
---text-color-light: #555050;
---body-color: #f8f6f5;
+--text-color-light: #aea38e;
+--body-color: #dbd3cc;
 
 /*=== FONTS ===*/
 --title-font-size: 1.875rem;
@@ -110,6 +109,9 @@ body {
   padding: calc(5rem + var(--header-height))0;
 }
 
+.section .text{
+  margin-top: -30px;
+}
 .section .title {
  margin-bottom: 1rem;
 }
@@ -127,7 +129,7 @@ body {
 }
 
 #header {
- border-bottom: 1px solid #e4e4e4;
+ border-bottom: 1px solid #593b1f;
  margin-bottom: 2rem;
  display: flex;
 
@@ -193,7 +195,7 @@ nav ul li a::after {
 
  position: absolute;
  left: 0;
- bottom: -1.5rem;
+ bottom: -10px;
 
  transition: width 0.2s;
 }
@@ -301,10 +303,6 @@ nav.show div.icon-close {
  
 }
 
-#home .image img,
-#home .image::before {
- border-radius: 1rem 1rem 0 0;
-}
 
 #home .text {
  margin-left: 1.5rem;
@@ -391,23 +389,27 @@ nav.show div.icon-close {
  /*=== TESTIMONIALS ===*/
 
 #testimonials {
- background: white;
+ background-color: #fff;
 }
 
 #testimonials .container{
+  background: url('./assets/img/macrame\ \(5\).jpg');
  margin-left: 0;
  margin-right: 0;
  position: relative;
  overflow: hidden;
+ padding: 20px;
 }
 
-#testimonials header {
+#testimonials header h2{
  margin-left: 1.5rem;
  margin-right: 1.5rem;
  margin-bottom: 0;
+ text-shadow: 0px 0px 12px rgba(0, 0, 0, 0.08);
 }
 
 #testimonials blockquote {
+  background-color: #fff;
  padding: 2rem;
  box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.08);
  border-radius: 0.25rem;
