@@ -62,11 +62,11 @@ O design do Entrelaços foi desenvolvido com foco na simplicidade, usabilidade e
 
 Se você deseja contribuir para o Entrelaços, siga estas etapas:
 
-Faça um fork do repositório.
-Crie uma branch com sua feature (git checkout -b feature/MinhaNovaFeature).
-Faça commit das suas alterações (git commit -am 'Adicionando uma nova feature').
-Envie a branch para o seu fork (git push origin feature/MinhaNovaFeature).
-Crie um pull request.
+- Faça um fork do repositório.
+- Crie uma branch com sua feature (git checkout -b feature/MinhaNovaFeature).
+- Faça commit das suas alterações (git commit -am 'Adicionando uma nova feature').
+- Envie a branch para o seu fork (git push origin feature/MinhaNovaFeature).
+- Crie um pull request.
 
 ---
 
