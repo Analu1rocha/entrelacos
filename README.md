@@ -35,7 +35,7 @@ com foco no atendimento direto ao cliente através da integração com o **Whats
 
 1. Clone o repositório:
    bash
-   git clone https://github.com/seuusuario/entrelaços.git
+   git clone https://github.com/Analu1rocha/entrelaços.git
 
 2. Navegue até o diretório do projeto:
    cd entrelaços
