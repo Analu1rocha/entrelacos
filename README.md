@@ -1,16 +1,17 @@
-# Entrelaços - Loja de Macramê Personalizada
+# Entrelaços - Modelo de Loja de Macramê Personalizada
 
-Bem-vindo ao repositório do **Entrelaços**, uma loja online especializada na criação de produtos de macramê sob encomenda. 
+Bem-vindo ao repositório do Entrelaços, uma loja online especializada na criação de produtos de macramê sob encomenda.
 Nosso objetivo é oferecer peças personalizadas e exclusivas, feitas com carinho, para atender aos gostos e necessidades de cada cliente.
 
-A loja foi desenvolvida com um design simples e funcional, priorizando uma experiência de navegação intuitiva, 
-com foco no atendimento direto ao cliente através da integração com o **WhatsApp**.
+A loja foi desenvolvida com um design simples e funcional, priorizando uma experiência de navegação intuitiva,
+com foco no atendimento direto ao cliente.
+
+Além de ser um modelo funcional para a venda de produtos personalizados, o Entrelaços demonstra como um site pode atender diferentes tipos de negócios que necessitam de um canal direto com seus clientes. Essa abordagem pode ser aplicada a diversos segmentos, permitindo que empresas gerenciem suas vendas e encomendas de forma prática apenas com o **WhatsApp**.
 
 ---
 
 ## 🚀 Funcionalidades
 
-- **Personalização Sob Encomenda**: Os produtos de macramê são feitos sob encomenda, permitindo que cada peça seja única e exclusiva.
 - **Design Responsivo**: A loja se adapta perfeitamente a dispositivos móveis e desktops, proporcionando uma navegação fluida em qualquer tela.
 - **Integração com WhatsApp**: Os clientes podem entrar em contato diretamente pelo WhatsApp para esclarecer dúvidas ou fazer pedidos personalizados.
 
