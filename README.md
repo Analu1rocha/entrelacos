@@ -43,13 +43,13 @@ com foco no atendimento direto ao cliente através da integração com o **Whats
 3. Abra o arquivo index.html no seu navegador:
 
 Basta dar um duplo clique no arquivo index.html para visualizar o site localmente no navegador.
-
+---
 ### 📞 Integração com WhatsApp
 O projeto inclui um botão de contato via WhatsApp, que permite ao cliente iniciar uma conversa diretamente com o vendedor para tirar dúvidas ou fazer pedidos personalizados. Ao clicar no botão, o cliente é redirecionado para o WhatsApp com uma mensagem pré-definida. Essa integração facilita a comunicação direta, tornando o processo de compra ainda mais personalizado e eficiente.
-
+---
 ### 🎨 Design e Personalização
 O design do Entrelaços foi desenvolvido com foco na simplicidade, usabilidade e personalização. A ideia é criar uma experiência de navegação tranquila, onde o cliente se sinta confortável para explorar os produtos e fazer suas encomendas de forma rápida. A interface é intuitiva, e a integração com o WhatsApp visa facilitar a comunicação e proporcionar um atendimento mais próximo e ágil.
-
+---
 ### 📝 Contribuindo
 Se você deseja contribuir para o Entrelaços, siga estas etapas:
 
@@ -58,7 +58,7 @@ Crie uma branch com sua feature (git checkout -b feature/MinhaNovaFeature).
 Faça commit das suas alterações (git commit -am 'Adicionando uma nova feature').
 Envie a branch para o seu fork (git push origin feature/MinhaNovaFeature).
 Crie um pull request.
-
+---
 📫 Contato
 Se você tiver alguma dúvida ou sugestão, entre em contato comigo:
 
